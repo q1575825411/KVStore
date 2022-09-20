@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KVStore</string>
+    <string name="running_tips">测试执行中</string>
+    <string name="test_tips">测试结束, 请检查日志获取结果</string>
+    <string name="main_tips">Launch %d times.</string>
+
+</resources>
